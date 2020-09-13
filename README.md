@@ -1,22 +1,22 @@
-Concoin Core staging tree
+WRD(wooridle)coin staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/concoin-project/concoin.svg?branch=master)](https://travis-ci.org/concoin-project/concoin)
 
 
-What is Concoin?
+What is wooridle coin?
 ----------------
 
-Concoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Concoin uses peer-to-peer technology to operate
+wooridle coin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. wooridle coin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Concoin Core is the name of open source
+out collectively by the network. wooridle coin Core is the name of open source
 software which enables the use of this currency.
 
 License
 -------
 
-Concoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+wooridle coin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 
